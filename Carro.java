@@ -1,5 +1,5 @@
 
-public class Carro {
+public class Carro extends Veiculo{ // entends + classe está herdando a classe.
 
 	public void ligar() {
 		confereCambio();
